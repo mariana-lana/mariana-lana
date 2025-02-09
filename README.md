@@ -1,4 +1,4 @@
-```
+```python
 class Mari:
     def __init__(self):
         self.name = 'Mariana Lana'
@@ -8,4 +8,3 @@ class Mari:
         self.education = 'Systems Analysis and Development'
         self.studying = ['Python', 'HTML', 'CSS', 'JavaScript']
         self.interest = 'Web Development'
-```
