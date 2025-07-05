@@ -4,8 +4,7 @@ public class Mari {
     int age = 17;
     String email = "mariana.lana.dev@gmail.com";
     String linkedin = "https://www.linkedin.com/in/mariaana-lana/";
-    String education = "Systems Analysis and Development";
+    String education = "Software Engineering";
     String[] studying = {"Python", "Java"};
     String interest = "Back-end Development";
 }
-
